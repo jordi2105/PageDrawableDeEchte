@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.pagedrawable5.Page" >
+	
+    <item
+        android:id="@+id/button"
+        android:title="Button"
+        app:showAsAction="never">
+        <!-- android:icon="@drawable/back"-->
+        
+    </item>
+    <item
+        android:id="@+id/textbox"
+        android:title="Textbox"
+        app:showAsAction="never">
+        <!--android:icon="@drawable/tools"-->
+        
+    </item>
+
+</menu>
+
